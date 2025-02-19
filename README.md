@@ -14,7 +14,7 @@
              \________/
 
            viniciuspx
-              2024   
+              2025   
 ```
 
 [3D Github Skyline Visualization](https://github.com/viniciuspx/viniciuspx/blob/main/viniciuspx-2024-github-skyline.stl) 
